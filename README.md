@@ -61,9 +61,9 @@ Je suis constamment à la recherche de nouvelles opportunités pour développer 
 
 ## 📫 Me contacter
 
-📧 Email : [ton.email@gmail.com]  
+📧 Email : farahelhadiq9@gmail.com 
 📍 Localisation : Tanger, Maroc  
-🔗 LinkedIn / Portfolio : *(à insérer si tu veux)*
+🔗 LinkedIn : https://www.linkedin.com/in/farah-el-hadiq-549a67306/
 
 ---
 
