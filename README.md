@@ -53,9 +53,9 @@ Je suis constamment à la recherche de nouvelles opportunités pour développer 
 
 ## 🌍 Langues
 
-- 🇫🇷 Français : Courant  
-- 🇬🇧 Anglais : Niveau moyen  
-- 🇲🇦 Arabe : Langue maternelle
+- 🇫🇷 Français   
+- 🇬🇧 Anglais 
+- 🇲🇦 Arabe 
 
 ---
 
