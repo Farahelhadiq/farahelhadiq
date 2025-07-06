@@ -1,4 +1,6 @@
-# 👩‍💻 Farah Elhadiq
+<h1 align="center">
+  Hello I'm <span style="color:#f06292;">Farah</span>, Full Stack Web Developer 👋
+</h1>
 
 **Full‑Stack Web Developer | Passionnée par le design, le développement, et la pédagogie numérique**
 
