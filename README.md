@@ -1,73 +1,87 @@
-<h1 align="center">
-  Hello I'm <span style="color:#f06292;">Farah</span>, Full Stack Web Developer 👋
-</h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#f06292;">Farah Elhadiq</span></h1>
 
-**Full‑Stack Web Developer | Passionnée par le design, le développement, et la pédagogie numérique**
-
-> *"Chaque jour, je construis mon avenir ligne par ligne, bug après bug — avec amour et persévérance."* 💫
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F06292&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Passionate+about+Design+%26+Coding;Creative+Problem+Solver+%F0%9F%92%A1" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🔧 Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=flat-square)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=flat-square)
-![React](https://img.shields.io/badge/React-20232A?logo=react&style=flat-square)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&style=flat-square)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&style=flat-square)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&style=flat-square)
+### 💫 About Me
+🔸 **Full‑Stack Developer** from Morocco  
+🔸 Passionnée par le **design**, le **développement** et la **pédagogie numérique**  
+🔸 “Chaque jour, je construis mon avenir ligne par ligne, bug après bug — avec amour et persévérance.” 💫
 
 ---
 
-## 📌 Featured Projects
+### 🛠️ Tech Stack
 
-### 🧸 Baraime El Rahma – Plateforme de gestion de crèche  
-> Projet complet de gestion de crèche avec 4 espaces (parent, professeur, directeur, public). Gestion d’activités, présences, plannings et plus.  
-**Stack :** HTML, CSS, JS, PHP (MVC), SQL  
-🔗 *Disponible sur demande.*
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&style=for-the-badge" />
+</div>
 
 ---
 
-### 🍽️ SoliRestaurants – Application de gestion de restaurants  
-> Plateforme intuitive pour découvrir, noter et gérer des restaurants avec photos, menus, localisation, et évaluations.  
-**Stack :** HTML, CSS, JS, PHP, SQL  
-🔗 *Disponible sur demande.*
+### 🌟 Projects
 
----
+| Project | Description | Stack |
+|--------|-------------|--------|
+| 🧸 **Baraime El Rahma** | Gestion complète d’une crèche (4 espaces: parents, profs, directeur, public). | HTML, CSS, JS, PHP (MVC), SQL |
+| 🍽️ **SoliRestaurants** | Application web pour gérer et découvrir les restaurants avec notation. | HTML, CSS, JS, PHP, SQL |
+| 🎨 **Portfolio** | Présentation de mes projets & compétences avec un design personnalisé. | HTML, CSS, React |
 
-### 🎨 Portfolio Personnel  
-> Mon espace créatif pour présenter mes projets, mes compétences et ma vision du développement web.  
-**Stack :** HTML, CSS, React  
 🔗 [Voir le portfolio](https://portfoliofarahelhadiq.netlify.app/)
 
 ---
 
-## 📈 GitHub Stats
+### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farahelhadiq&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farahelhadiq&layout=compact&theme=radical)
-
----
-
-## 🌐 Me retrouver
-
-- 🌍 **Portfolio** : [portfoliofarahelhadiq.netlify.app](https://portfoliofarahelhadiq.netlify.app/)
-- 💼 **GitHub** : [github.com/Farahelhadiq](https://github.com/Farahelhadiq)
-- 📸 **Instagram** : En cours de création…
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Farahelhadiq&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farahelhadiq&layout=compact&theme=radical" alt="langs" />
+</p>
 
 ---
 
-### ✨ Citation du jour
+### 🏆 GitHub Trophies
 
-> “Continue de semer… chaque ligne de code est une graine vers ta version la plus puissante.” 🌱
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Farahelhadiq&theme=radical&margin-w=15&margin-h=15" />
+</p>
 
 ---
 
-**Merci d’avoir visité mon profil ! N’hésitez pas à me contacter pour collaborer.**
+### 📈 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Farahelhadiq&style=flat-square&color=brightgreen" alt="Profile Views" />
+</p>
+
+---
+
+### 🌐 Find Me
+
+- 💼 [GitHub](https://github.com/Farahelhadiq)
+- 🌍 [Portfolio](https://portfoliofarahelhadiq.netlify.app)
+- 📸 Instagram: *coming soon*
+
+---
+
+### ✨ Dev Quote
+
+> *"Continue de semer… chaque ligne de code est une graine vers ta version la plus puissante."* 🌱
+
+---
+
+Merci pour votre visite ! 😄
 
 ---
