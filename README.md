@@ -4,6 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F06292&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Passionate+about+Design+%26+Coding;Creative+Problem+Solver+%F0%9F%92%A1" alt="Typing SVG" />
 </p> 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VishwaGauravIn/VishwaGauravIn/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
 
 ### 💫 About Me
 🔸 **Full‑Stack Developer** from Morocco  
