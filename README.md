@@ -37,9 +37,9 @@
 
 | Project | Description | Stack |
 |--------|-------------|--------|
-| 🧸 **Baraime El Rahma** | Gestion complète d’une crèche (4 espaces: parents, profs, directeur, public). | HTML, CSS, JS, PHP (MVC), SQL |
+| 🧸 **Baraime El Rahma** | Gestion complète d’une crèche (4 espaces: parents, profs, directeur, public). | HTML, CSS, JS, PHP , SQL |
 | 🍽️ **SoliRestaurants** | Application web pour gérer et découvrir les restaurants avec notation. | HTML, CSS, JS, PHP, SQL |
-| 🎨 **Portfolio** | Présentation de mes projets & compétences avec un design personnalisé. | HTML, CSS, React |
+| 🎨 **Portfolio** | **Un site web moderne et responsive présentant mes projets, compétences et parcours professionnel.** Conçu pour refléter mon identité visuelle et offrir une expérience fluide sur tous les appareils. | HTML, CSS, Tailwind |
 
 🔗 [Voir le portfolio](https://portfoliofarahelhadiq.netlify.app/)
 
@@ -70,7 +70,7 @@
 
 - 💼 [GitHub](https://github.com/Farahelhadiq)
 - 🌍 [Portfolio](https://portfoliofarahelhadiq.netlify.app)
-- 📸 Instagram: *coming soon*
+- 📸 [Instagram] (https://www.instagram.com/farah_elhadiq/)
 
 ---
 
