@@ -68,9 +68,11 @@
 
 ### 🌐 Find Me
 
+
 - 💼 [GitHub](https://github.com/Farahelhadiq)
 - 🌍 [Portfolio](https://portfoliofarahelhadiq.netlify.app)
-- 📸 [Instagram] (https://www.instagram.com/farah_elhadiq/)
+- 📸 [Instagram](https://www.instagram.com/farah_elhadiq/)
+
 
 ---
 
@@ -80,6 +82,6 @@
 
 ---
 
-Merci pour votre visite ! 😄
+<h3 align="center">Merci  <span style="color:#f06292;">pour votre visite ! 😄</span></h3>
 
 ---
