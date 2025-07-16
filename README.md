@@ -73,8 +73,7 @@
 - 💼 [GitHub](https://github.com/Farahelhadiq)
 - 🌍 [Portfolio](https://portfoliofarahelhadiq.netlify.app)
 - 📸 [Instagram](https://www.instagram.com/farah_elhadiq/)
-![Farah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Farahelhadiq&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farahelhadiq&layout=compact&theme=radical)
+
 
 
 ---
