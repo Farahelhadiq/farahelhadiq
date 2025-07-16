@@ -40,10 +40,11 @@
 | 🧸 **Baraime El Rahma** | Gestion complète d’une crèche (4 espaces: parents, profs, directeur, public). | HTML, CSS, JS, PHP , SQL |
 | 🍽️ **SoliRestaurants** | Application web pour gérer et découvrir les restaurants avec notation. | HTML, CSS, JS, PHP, SQL |
 | 🎨 **Portfolio** | **Un site web moderne et responsive présentant mes projets, compétences et parcours professionnel.** Conçu pour refléter mon identité visuelle et offrir une expérience fluide sur tous les appareils. | HTML, CSS, Tailwind |
+| 🚀 **Elevate Landing Page** | **Une landing page moderne et responsive pour présenter un service ou produit de manière professionnelle.** Optimisée pour attirer des clients potentiels et améliorer la conversion. | HTML, CSS, Tailwind, JS |
 
-🔗 [Voir le portfolio](https://portfoliofarahelhadiq.netlify.app/)
+🔗 [Voir le portfolio](https://portfoliofarahelhadiq.netlify.app/)  
+🔗 [Voir la landing page](https://elevate-landing-page.netlify.app/)
 
----
 
 ### 📊 GitHub Stats
 
