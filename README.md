@@ -21,7 +21,7 @@
 
 ---
 
-### <img src="https://cdn.simpleicons.org/html5/f06292" width="20"/> Tech Stack
+### <img src="https://cdn-icons-png.flaticon.com/512/716/716784.png" width="20"/> Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=for-the-badge&logoColor=white" alt="HTML5" />
@@ -39,12 +39,12 @@
 
 ---
 
-### <img src="https://cdn.simpleicons.org/folder/4285F4" width="20"/> Projects
+### <img src="https://cdn-icons-png.flaticon.com/512/25/25694.png" width="20"/> Projects
 
 | Project | Description | Stack |
 |--------|-------------|--------|
-| <img src="https://cdn.simpleicons.org/google/4285F4" width="22"/> **Baraime El Rahma** | Full management platform for a crèche (parents, teachers, director, public spaces). | HTML, CSS, JS, PHP, SQL |
-| <img src="https://cdn.simpleicons.org/ubereats/06C167" width="22"/> **SoliRestaurants** | Web app to manage and discover restaurants with rating features. | HTML, CSS, JS, PHP, SQL |
+| <img src="https://cdn.simpleicons.org/googleclassroom/34A853" width="22"/> **Baraime El Rahma** | Full management platform for a crèche (parents, teachers, director, public spaces). | HTML, CSS, JS, PHP, SQL |
+| <img src="https://cdn.simpleicons.org/foodservice/FF6D00" width="22"/> **SoliRestaurants** | Web app to manage and discover restaurants with rating features. | HTML, CSS, JS, PHP, SQL |
 | <img src="https://cdn.simpleicons.org/webflow/4353FF" width="22"/> **Portfolio** | Modern, responsive website showcasing my projects, skills, and career journey. | HTML, CSS, Tailwind |
 | <img src="https://cdn.simpleicons.org/rocket/FF6F00" width="22"/> **Elevate Landing Page** | Modern, responsive landing page to present services or products professionally. | HTML, CSS, Tailwind, JS |
 
@@ -62,7 +62,7 @@
 
 ---
 
-### <img src="https://cdn.simpleicons.org/eye/4285F4" width="20"/> Visitor Count
+### <img src="https://cdn.simpleicons.org/googleanalytics/F4B400" width="20"/> Visitor Count
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Farahelhadiq&style=flat-square&color=brightgreen" alt="Profile Views" />
@@ -70,10 +70,10 @@
 
 ---
 
-### <img src="https://cdn.simpleicons.org/lightbulb/FACC15" width="20"/> Dev Quote
+### <img src="https://cdn-icons-png.flaticon.com/512/3063/3063821.png" width="20"/> Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" alt="Dev Quote" />
 </p>
 
 ---
