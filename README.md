@@ -15,11 +15,13 @@
 </p>
 
 ### <img src="https://cdn.simpleicons.org/aboutdotme/000000" width="20"/> About Me
-- **Full‑Stack Web Developer** from Morocco, passionate about creating **clean, modern, and user‑focused web applications**.  
-- Skilled in **UI/UX design**, **front-end & back-end development** (React, PHP, MySQL), with a strong interest in **digital education** and innovative web solutions.  
-- Always learning, building **real-world projects**, and open to **collaborations or freelance opportunities**.  
-- *"Every day, I build my future line by line, bug by bug — with love, persistence, and curiosity."*
 
+- **Full‑Stack Web Developer in progress**, passionate about **clean design** and **building useful, real‑life web applications**.  
+- I started my journey learning **HTML, CSS, JavaScript, PHP, and SQL**, and now I’m improving my skills in **React** and **modern frameworks**.  
+- Curious by nature, I love solving problems, sharing what I learn, and I’m always exploring **new tools** to grow as a developer.  
+- *"Every line of code I write is a step closer to the developer I dream to be."*
+
+---
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/716/716784.png" width="20"/> Tech Stack
 
