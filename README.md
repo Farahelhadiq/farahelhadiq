@@ -82,12 +82,17 @@
 </p>
 
 ---
-### <img src="https://cdn-icons-png.flaticon.com/512/3063/3063821.png" width="20"/> Dev Quote
+### <img src="https://cdn-icons-png.flaticon.com/512/3063/3063821.png" width="22" style="vertical-align:middle"/> Dev Quote
 
-<p align="center">
-  <em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</em>  
-  — <strong>Martin Fowler</strong> *(Software Development Expert & Author of “Refactoring”)*
-</p>
+<div align="center" style="background:#f9f9f9; padding:12px; border-radius:10px; border:1px solid #e1e4e8; width:80%;">
+  <em style="font-size:16px; color:#555;">
+    "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+  </em>  
+  <br/>
+  <strong style="font-size:14px; color:#f06292;">— Martin Fowler</strong>  
+  <sub><i>(Software Development Expert & Author of “Refactoring”)</i></sub>
+</div>
+
 
 ---
 
