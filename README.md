@@ -85,8 +85,10 @@
 ### <img src="https://cdn-icons-png.flaticon.com/512/3063/3063821.png" width="20"/> Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" alt="Dev Quote" />
+  <em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</em>  
+  — <strong>Martin Fowler</strong> *(Software Development Expert & Author of “Refactoring”)*
 </p>
+
 ---
 
 <h3 align="center">
