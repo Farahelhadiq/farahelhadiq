@@ -1,8 +1,9 @@
 <h1 align="center">
   Hi there 
-  <img src="https://cdn.simpleicons.org/github/white/181717" width="28" alt="Hi Icon" />
+  <img src="https://cdn.simpleicons.org/handshake/F06292" width="28" alt="Welcome Icon" />
   , I'm <span style="color:#f06292;">Farah Elhadiq</span>
 </h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F06292&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Passionate+about+Design+%26+Coding;Creative+Problem+Solver" alt="Typing SVG" />
@@ -14,7 +15,7 @@
   <img src="https://raw.githubusercontent.com/VishwaGauravIn/VishwaGauravIn/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
-### <img src="https://cdn.simpleicons.org/aboutdotme/black/gray" width="20"/> About Me
+### <img src="https://cdn.simpleicons.org/aboutdotme/black" width="20"/> About Me
 - <img src="https://cdn.simpleicons.org/react/61DAFB" width="16"/> **Full‑Stack Developer** from Morocco  
 - <img src="https://cdn.simpleicons.org/figma/F24E1E" width="16"/> Passionate about **design**, **development**, and **digital education**  
 - <img src="https://cdn.simpleicons.org/git/F05032" width="16"/> "Every day, I build my future line by line, bug by bug — with love and persistence."
@@ -39,14 +40,14 @@
 
 ---
 
-### <img src="https://cdn.simpleicons.org/star/FFD700" width="20"/> Projects
+### <img src="https://cdn.simpleicons.org/folder/4285F4" width="20"/> Projects
 
 | Project | Description | Stack |
 |--------|-------------|--------|
-| <img src="https://cdn.simpleicons.org/gravatar/blue" width="16"/> **Baraime El Rahma** | Full management platform for a crèche (parents, teachers, director, public spaces). | HTML, CSS, JS, PHP, SQL |
-| <img src="https://cdn.simpleicons.org/foodpanda/FF2B85" width="16"/> **SoliRestaurants** | Web app to manage and discover restaurants with rating features. | HTML, CSS, JS, PHP, SQL |
-| <img src="https://cdn.simpleicons.org/csswizardry/blue" width="16"/> **Portfolio** | Modern, responsive website showcasing my projects, skills, and career journey. | HTML, CSS, Tailwind |
-| <img src="https://cdn.simpleicons.org/vercel/black" width="16"/> **Elevate Landing Page** | Modern, responsive landing page to present services or products professionally. | HTML, CSS, Tailwind, JS |
+| <[img src="https://cdn.simpleicons.org/gravatar/blue" width="16"/](https://cdn.simpleicons.org/googleclassroom/3DDC84)> **Baraime El Rahma** | Full management platform for a crèche (parents, teachers, director, public spaces). | HTML, CSS, JS, PHP, SQL |
+| <[img src="https://cdn.simpleicons.org/foodpanda/FF2B85" width="16"/](https://cdn.simpleicons.org/ubereats/06C167)> **SoliRestaurants** | Web app to manage and discover restaurants with rating features. | HTML, CSS, JS, PHP, SQL |
+| <[img src="https://cdn.simpleicons.org/csswizardry/blue" width="16"/]([https://cdn.simpleicons.org/ubereats/06C167](https://cdn.simpleicons.org/netlify/00C7B7))> **Portfolio** | Modern, responsive website showcasing my projects, skills, and career journey. | HTML, CSS, Tailwind |
+| <[img src="https://cdn.simpleicons.org/vercel/black" width="16"/](https://cdn.simpleicons.org/vercel/black)> **Elevate Landing Page** | Modern, responsive landing page to present services or products professionally. | HTML, CSS, Tailwind, JS |
 
 🔗 [View Portfolio](https://portfoliofarahelhadiq.netlify.app/)  
 🔗 [View Landing Page](https://elevate-landing-page.netlify.app/)
@@ -62,7 +63,7 @@
 
 ---
 
-### <img src="https://cdn.simpleicons.org/graph/blue" width="20"/> Visitor Count
+### <img src="https://cdn.simpleicons.org/googleanalytics/F4B400" width="20"/> Visitor Count
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Farahelhadiq&style=flat-square&color=brightgreen" alt="Profile Views" />
@@ -78,7 +79,7 @@
 
 ---
 
-### <img src="https://cdn.simpleicons.org/quote/gray" width="20"/> Dev Quote
+### <img src="https://cdn.simpleicons.org/lightbulb/FACC15" width="20"/> Dev Quote
 
 > *"Keep sowing… every line of code is a seed toward your most powerful self."*
 
