@@ -85,7 +85,7 @@
 ### <img src="https://cdn-icons-png.flaticon.com/512/3063/3063821.png" width="20"/> Dev Quote
 
 <p align="center">
-  <img src="https://claude.ai/public/artifacts/f50b30c5-523a-4bec-9616-50652d83e0ee" alt="Dev Quote" width="600"/>
+  <img src="https://claude.ai/public/artifacts/ff80af5d-3000-4007-acaf-0d13d01d2356" alt="Dev Quote" width="600"/>
 </p>
 
 ---
