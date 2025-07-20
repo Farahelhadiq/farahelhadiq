@@ -22,7 +22,7 @@
 - *"Every line of code I write is a step closer to the developer I dream to be."*
 
 ---
-### 🛠️ Tech Stack
+### <img src="https://cdn.simpleicons.org/html5/f06292" width="20"/> Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=for-the-badge&logoColor=white" alt="HTML5" />
