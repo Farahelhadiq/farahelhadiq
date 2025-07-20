@@ -55,12 +55,14 @@
 | <img src="https://cdn.simpleicons.org/webflow/4353FF" width="22"/> **Portfolio** | Modern, responsive website showcasing my projects, skills, and career journey. | HTML, CSS, Tailwind | [Repo](https://github.com/Farahelhadiq/portfolio) | [Demo](https://portfoliofarahelhadiq.netlify.app/) |
 | <img src="https://cdn.simpleicons.org/rocket/FF6F00" width="22"/> **Elevate Landing Page** | Modern, responsive landing page to present services or products professionally. | HTML, CSS, Tailwind, JS | [Repo](https://github.com/Farahelhadiq/elevate-landing-page) | [Demo](https://elevate-landing-page.netlify.app/) |
 
-🔗 [**View Portfolio**](https://portfoliofarahelhadiq.netlify.app/)  
-🔗 [**View Landing Page**](https://elevate-landing-page.netlify.app/)
 
 ---
 
 ### <img src="https://cdn.simpleicons.org/github/181717" width="20"/> GitHub Stats
+
+<p align="center">
+  <em>Explore my coding activity and favorite languages through these GitHub insights.</em>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Farahelhadiq&show_icons=true&theme=radical" alt="GitHub Stats" />
