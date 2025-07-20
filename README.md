@@ -1,8 +1,12 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#f06292;">Farah Elhadiq</span></h1>
+<h1 align="center">
+  Hi there 
+  <img src="https://cdn.simpleicons.org/github/white/181717" width="28" alt="Hi Icon" />
+  , I'm <span style="color:#f06292;">Farah Elhadiq</span>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F06292&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Passionate+about+Design+%26+Coding;Creative+Problem+Solver+%F0%9F%92%A1" alt="Typing SVG" />
-</p> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F06292&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Passionate+about+Design+%26+Coding;Creative+Problem+Solver" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -10,14 +14,14 @@
   <img src="https://raw.githubusercontent.com/VishwaGauravIn/VishwaGauravIn/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
-### 💫 About Me
-- 🔸 **Full‑Stack Developer** from Morocco  
-- 🔸 Passionate about **design**, **development**, and **digital education**  
-- 🔸 "Every day, I build my future line by line, bug by bug — with love and persistence." 💫
+### <img src="https://cdn.simpleicons.org/aboutdotme/black/gray" width="20"/> About Me
+- <img src="https://cdn.simpleicons.org/react/61DAFB" width="16"/> **Full‑Stack Developer** from Morocco  
+- <img src="https://cdn.simpleicons.org/figma/F24E1E" width="16"/> Passionate about **design**, **development**, and **digital education**  
+- <img src="https://cdn.simpleicons.org/git/F05032" width="16"/> "Every day, I build my future line by line, bug by bug — with love and persistence."
 
 ---
 
-### 🛠️ Tech Stack
+### <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="20"/> Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=for-the-badge&logoColor=white" alt="HTML5" />
@@ -35,21 +39,21 @@
 
 ---
 
-### 🌟 Projects
+### <img src="https://cdn.simpleicons.org/star/FFD700" width="20"/> Projects
 
 | Project | Description | Stack |
 |--------|-------------|--------|
-| 🧸 **Baraime El Rahma** | Full management platform for a crèche (parents, teachers, director, public spaces). | HTML, CSS, JS, PHP, SQL |
-| 🍽️ **SoliRestaurants** | Web app to manage and discover restaurants with rating features. | HTML, CSS, JS, PHP, SQL |
-| 🎨 **Portfolio** | Modern, responsive website showcasing my projects, skills, and career journey. | HTML, CSS, Tailwind |
-| 🚀 **Elevate Landing Page** | Modern, responsive landing page to present services or products professionally. | HTML, CSS, Tailwind, JS |
+| <img src="https://cdn.simpleicons.org/gravatar/blue" width="16"/> **Baraime El Rahma** | Full management platform for a crèche (parents, teachers, director, public spaces). | HTML, CSS, JS, PHP, SQL |
+| <img src="https://cdn.simpleicons.org/foodpanda/FF2B85" width="16"/> **SoliRestaurants** | Web app to manage and discover restaurants with rating features. | HTML, CSS, JS, PHP, SQL |
+| <img src="https://cdn.simpleicons.org/csswizardry/blue" width="16"/> **Portfolio** | Modern, responsive website showcasing my projects, skills, and career journey. | HTML, CSS, Tailwind |
+| <img src="https://cdn.simpleicons.org/vercel/black" width="16"/> **Elevate Landing Page** | Modern, responsive landing page to present services or products professionally. | HTML, CSS, Tailwind, JS |
 
 🔗 [View Portfolio](https://portfoliofarahelhadiq.netlify.app/)  
 🔗 [View Landing Page](https://elevate-landing-page.netlify.app/)
 
 ---
 
-### 📊 GitHub Stats
+### <img src="https://cdn.simpleicons.org/github/181717" width="20"/> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Farahelhadiq&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -58,7 +62,7 @@
 
 ---
 
-### 📈 Visitor Count
+### <img src="https://cdn.simpleicons.org/graph/blue" width="20"/> Visitor Count
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Farahelhadiq&style=flat-square&color=brightgreen" alt="Profile Views" />
@@ -66,40 +70,21 @@
 
 ---
 
-### 🌐 Find Me
+### <img src="https://cdn.simpleicons.org/contactlesspayment/black" width="20"/> Find Me
 
-- 💼 [GitHub](https://github.com/Farahelhadiq)  
-- 🌍 [Portfolio](https://portfoliofarahelhadiq.netlify.app)  
-- 📸 [Instagram](https://www.instagram.com/farah_elhadiq/)
-
----
-
-### ✨ Dev Quote
-
-> *"Keep sowing… every line of code is a seed toward your most powerful self."* 🌱
+- <img src="https://cdn.simpleicons.org/github/181717" width="16"/> [GitHub](https://github.com/Farahelhadiq)  
+- <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="16"/> [Portfolio](https://portfoliofarahelhadiq.netlify.app)  
+- <img src="https://cdn.simpleicons.org/instagram/E4405F" width="16"/> [Instagram](https://www.instagram.com/farah_elhadiq/)
 
 ---
 
-<h3 align="center">Thank you <span style="color:#f06292;">for your visit! 😄</span></h3>
+### <img src="https://cdn.simpleicons.org/quote/gray" width="20"/> Dev Quote
+
+> *"Keep sowing… every line of code is a seed toward your most powerful self."*
 
 ---
 
-*Key Improvements:*  
-- Replaced inline styles with Markdown-compliant formatting for wider compatibility  
-- Used consistent, professional badges from shields.io with alt text for accessibility  
-- Cleaned text to be clear, concise, and engaging  
-- Balanced sections with spacing and alignment for readability  
-- Kept the friendly tone with professionalism  
-
-*Techniques Applied:*  
-- Role assignment: Professional Full Stack Developer profile  
-- Context layering: Clear About, Skills, Projects, Stats, Contact  
-- Constraint optimization: Markdown compatible with GitHub flavor  
-- Visual clarity: Consistent badges and layout  
-
-*Pro Tip:*  
-Paste this README directly into your GitHub profile’s README.md. Keep updating the projects section as you add new work. For icons, always use shields.io or reputable SVG icon libraries for crispness and professionalism.  
-
----
-
-If you want, I can help next with **README files for your top repos** or polishing the pinned projects list!
+<h3 align="center">Thank you 
+  <img src="https://cdn.simpleicons.org/smugmug/green" width="20"/> 
+  for your visit!
+</h3>
