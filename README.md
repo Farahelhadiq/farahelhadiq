@@ -22,22 +22,24 @@
 - *"Every line of code I write is a step closer to the developer I dream to be."*
 
 ---
+### <img src="https://cdn.simpleicons.org/html5/f06292" width="20"/> Tech Stack  
 
-### <img src="https://cdn-icons-png.flaticon.com/512/716/716784.png" width="20"/> Tech Stack
+#### <img src="https://cdn.simpleicons.org/frontendmentor/38B2AC" width="18"/> **Front-End**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=for-the-badge&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=for-the-badge&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&style=for-the-badge&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&style=for-the-badge&logoColor=white)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=for-the-badge&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=for-the-badge&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&style=for-the-badge&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&style=for-the-badge&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&style=for-the-badge&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&style=for-the-badge" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&style=for-the-badge" alt="Canva" />
-</div>
+#### <img src="https://cdn.simpleicons.org/servers/777BB4" width="18"/> **Back-End**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&style=for-the-badge&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge&logoColor=white)
+
+#### <img src="https://cdn.simpleicons.org/toolbox/F05032" width="18"/> **Tools & Other Skills**  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&style=for-the-badge)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&style=for-the-badge)
 
 ---
 
