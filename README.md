@@ -15,11 +15,11 @@
 </p>
 
 ### <img src="https://cdn.simpleicons.org/aboutdotme/000000" width="20"/> About Me
-- **Full‑Stack Developer** from Morocco  
-- Passionate about **design**, **development**, and **digital education**  
-- *"Every day, I build my future line by line, bug by bug — with love and persistence."*
+- **Full‑Stack Web Developer** from Morocco, with a strong focus on building **clean, modern, and user‑friendly web applications**.  
+- Passionate about **UI/UX design**, **problem-solving**, and **digital education**, always striving to blend creativity with technical precision.  
+- I enjoy working on **real-world projects**, contributing to **open-source**, and continuously improving my skills in **React, PHP, and database optimization**.  
+- *"Every day, I build my future line by line, bug by bug — with love, persistence, and curiosity."*
 
----
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/716/716784.png" width="20"/> Tech Stack
 
