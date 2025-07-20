@@ -74,6 +74,10 @@
 ### <img src="https://cdn.simpleicons.org/googleanalytics/F4B400" width="20"/> Visitor Count
 
 <p align="center">
+  <em>Track how many visitors have viewed my GitHub profile.</em>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Farahelhadiq&style=flat-square&color=brightgreen" alt="Profile Views" />
 </p>
 
