@@ -85,22 +85,22 @@
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/3063/3063821.png" width="20"/> Dev Quote
 
-<p align="center">
+<p align="center" style="font-style: italic; font-size: 18px; line-height: 1.6; max-width: 600px; margin: auto; color: #555;">
+  <strong style="color:#f06292;">Live your story boldly.</strong><br/>
+  Face the challenges,<br/>
+  and be the hero you were meant to be —<br/><br/>
 
-Live your story boldly.  
-Face the challenges,  
-and be the hero you were meant to be —  
-
-Just like in coding:  
-Every bug is an obstacle to overcome,  
-Every error is a lesson learned,  
-And every line of code  
-Is a step closer  
-To building something great.
-
+  <strong>Just like in coding:</strong><br/>
+  Every <em>bug</em> is an obstacle to overcome,<br/>
+  Every <em>error</em> is a lesson learned,<br/>
+  And every line of code<br/>
+  Is a step closer<br/>
+  To building something great.
 </p>
 
-<p align="center"><b>FARAH EL HADIQ</b></p>
+<p align="center" style="font-weight: bold; font-size: 20px; color: #f06292; margin-top: 20px;">
+  FARAH EL HADIQ
+</p>
 
 ---
 
