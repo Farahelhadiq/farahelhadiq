@@ -85,24 +85,8 @@
 ### <img src="https://cdn-icons-png.flaticon.com/512/3063/3063821.png" width="20"/> Dev Quote
 
 <p align="center">
-
-**Live your story boldly.**  
-Face the challenges,  
-and be the hero you were meant to be —  
-
-**Just like in coding:**  
-Every *bug* is an obstacle to overcome,  
-Every *error* is a lesson learned,  
-And every line of code  
-Is a step closer  
-To building something great.
-
+  <img src="https://claude.ai/public/artifacts/f50b30c5-523a-4bec-9616-50652d83e0ee" alt="Dev Quote" width="600"/>
 </p>
-
-<p align="center">
-<span style="color:#f06292; font-weight:bold; font-size:18px;">FARAH EL HADIQ</span>
-</p>
-
 
 ---
 
