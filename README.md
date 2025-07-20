@@ -39,14 +39,14 @@
 
 ---
 
-### <img src="https://cdn.simpleicons.org/folder/4285F4" width="20"/> Projects
+### <img src="https://cdn.simpleicons.org/folderopen/4285F4" width="20"/> Projects
 
 | Project | Description | Stack |
 |--------|-------------|--------|
-| <img src="https://cdn.simpleicons.org/googleclassroom/3DDC84" width="18"/> **Baraime El Rahma** | Full management platform for a crèche (parents, teachers, director, public spaces). | HTML, CSS, JS, PHP, SQL |
-| <img src="https://cdn.simpleicons.org/ubereats/06C167" width="18"/> **SoliRestaurants** | Web app to manage and discover restaurants with rating features. | HTML, CSS, JS, PHP, SQL |
-| <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="18"/> **Portfolio** | Modern, responsive website showcasing my projects, skills, and career journey. | HTML, CSS, Tailwind |
-| <img src="https://cdn.simpleicons.org/vercel/000000" width="18"/> **Elevate Landing Page** | Modern, responsive landing page to present services or products professionally. | HTML, CSS, Tailwind, JS |
+| <img src="https://cdn.simpleicons.org/googleclassroom/34A853" width="22"/> **Baraime El Rahma** | Full management platform for a crèche (parents, teachers, director, public spaces). | HTML, CSS, JS, PHP, SQL |
+| <img src="https://cdn.simpleicons.org/foodpanda/FF2B85" width="22"/> **SoliRestaurants** | Web app to manage and discover restaurants with rating features. | HTML, CSS, JS, PHP, SQL |
+| <img src="https://cdn.simpleicons.org/webflow/4353FF" width="22"/> **Portfolio** | Modern, responsive website showcasing my projects, skills, and career journey. | HTML, CSS, Tailwind |
+| <img src="https://cdn.simpleicons.org/rocket/FF6F00" width="22"/> **Elevate Landing Page** | Modern, responsive landing page to present services or products professionally. | HTML, CSS, Tailwind, JS |
 
 🔗 [**View Portfolio**](https://portfoliofarahelhadiq.netlify.app/)  
 🔗 [**View Landing Page**](https://elevate-landing-page.netlify.app/)
@@ -72,7 +72,9 @@
 
 ### <img src="https://cdn.simpleicons.org/lightbulb/FACC15" width="20"/> Dev Quote
 
-> *"Keep sowing… every line of code is a seed toward your most powerful self."*
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" alt="Dev Quote" />
+</p>
 
 ---
 
