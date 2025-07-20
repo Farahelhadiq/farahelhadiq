@@ -86,8 +86,21 @@
 ### <img src="https://cdn-icons-png.flaticon.com/512/3063/3063821.png" width="20"/> Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" alt="Dev Quote" />
+
+Live your story boldly.  
+Face the challenges,  
+and be the hero you were meant to be —  
+
+Just like in coding:  
+Every bug is an obstacle to overcome,  
+Every error is a lesson learned,  
+And every line of code  
+Is a step closer  
+To building something great.
+
 </p>
+
+<p align="center"><b>FARAH EL HADIQ</b></p>
 
 ---
 
