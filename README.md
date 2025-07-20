@@ -43,8 +43,8 @@
 
 | Project | Description | Stack |
 |--------|-------------|--------|
-| <img src="https://cdn.simpleicons.org/googleclassroom/34A853" width="22"/> **Baraime El Rahma** | Full management platform for a crèche (parents, teachers, director, public spaces). | HTML, CSS, JS, PHP, SQL |
-| <img src="https://cdn.simpleicons.org/foodservice/FF6D00" width="22"/> **SoliRestaurants** | Web app to manage and discover restaurants with rating features. | HTML, CSS, JS, PHP, SQL |
+| <img src="https://cdn-icons-png.flaticon.com/512/3043/3043316.png" width="22" alt="Baraime Icon" /> **Baraime El Rahma** | Full management platform for a crèche (parents, teachers, director, public spaces). | HTML, CSS, JS, PHP, SQL |
+| <img src="https://cdn-icons-png.flaticon.com/512/1046/1046784.png" width="22" alt="SoliRestaurants Icon" /> **SoliRestaurants** | Web app to manage and discover restaurants with rating features. | HTML, CSS, JS, PHP, SQL |
 | <img src="https://cdn.simpleicons.org/webflow/4353FF" width="22"/> **Portfolio** | Modern, responsive website showcasing my projects, skills, and career journey. | HTML, CSS, Tailwind |
 | <img src="https://cdn.simpleicons.org/rocket/FF6F00" width="22"/> **Elevate Landing Page** | Modern, responsive landing page to present services or products professionally. | HTML, CSS, Tailwind, JS |
 
