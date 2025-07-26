@@ -45,15 +45,15 @@
 </div>
 
 ---
-
-### <img src="https://cdn-icons-png.flaticon.com/512/25/25694.png" width="20"/> Projects
+## <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="22"/> Featured Projects
 
 | Project | Description | Stack | Repository | Live Demo |
 |--------|-------------|--------|------------|-----------|
-| <img src="https://cdn-icons-png.flaticon.com/512/3043/3043316.png" width="22" alt="Baraime Icon" /> **Baraime El Rahma** | Full management platform for a crèche (parents, teachers, director, public spaces). | HTML, CSS, JS, PHP, SQL | [Repo](https://github.com/Farahelhadiq/BaraimeElRahma) | [Demo](#) |
-| <img src="https://cdn-icons-png.flaticon.com/512/1046/1046784.png" width="22" alt="SoliRestaurants Icon" /> **SoliRestaurants** | Web app to manage and discover restaurants with rating features. | HTML, CSS, JS, PHP, SQL | [Repo](https://github.com/Farahelhadiq/SoliRestaurants) | [Demo](#) |
-| <img src="https://cdn.simpleicons.org/webflow/4353FF" width="22"/> **Portfolio** | Modern, responsive website showcasing my projects, skills, and career journey. | HTML, CSS, Tailwind | [Repo](https://github.com/Farahelhadiq/portfolio) | [Demo](https://portfoliofarahelhadiq.netlify.app/) |
-| <img src="https://cdn.simpleicons.org/rocket/FF6F00" width="22"/> **Elevate Landing Page** | Modern, responsive landing page to present services or products professionally. | HTML, CSS, Tailwind, JS | [Repo](https://github.com/Farahelhadiq/elevate-landing-page) | [Demo](https://elevate-landing-page.netlify.app/) |
+| <img src="https://cdn-icons-png.flaticon.com/512/3043/3043316.png" width="22" alt="Baraime Icon" /> **Baraime El Rahma** | Complete management platform for a crèche (**parents, teachers, director, and public spaces**). | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat) | [📂 Repo](https://github.com/Farahelhadiq/BaraimeElRahma) | 🚀 Coming Soon |
+| <img src="https://cdn-icons-png.flaticon.com/512/1046/1046784.png" width="22" alt="SoliRestaurants Icon" /> **SoliRestaurants** | Web app to manage and discover restaurants, with **ratings & reviews** features. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat) | [📂 Repo](https://github.com/Farahelhadiq/SoliRestaurants) | 🚀 Coming Soon |
+| <img src="https://cdn.simpleicons.org/webflow/4353FF" width="22"/> **Portfolio** | Modern, responsive website showcasing my **projects, skills, and career journey**. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat) | [📂 Repo](https://github.com/Farahelhadiq/portfolio) | [🌐 Live](https://portfoliofarahelhadiq.netlify.app/) |
+| <img src="https://cdn.simpleicons.org/rocket/FF6F00" width="22"/> **Elevate Landing Page** | Professional landing page for **services or product presentation**. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) | [📂 Repo](https://github.com/Farahelhadiq/elevate-landing-page) | [🌐 Live](https://elevate-landing-page.netlify.app/) |
+
 
 
 ---
